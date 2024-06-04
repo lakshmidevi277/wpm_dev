@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">lakshmi</value>
-    <value name="lastModifiedDate">1717499403097</value>
+    <value name="lastModifiedDate">1717500273105</value>
     <null name="edgeServer"/>
     <value name="displayName">workday</value>
     <value name="description"></value>
@@ -71,6 +71,8 @@
         <value name="nodePathNew">0</value>
         <number name="nodeIndex" type="Long">0</number>
         <number name="lineNumberForDebug" type="Long">1</number>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">0</value>
       </record>
     </record>
   </record>
