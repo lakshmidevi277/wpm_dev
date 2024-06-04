@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<FLOW VERSION="1.0" CLEANUP="false">
+<FLOW VERSION="3.0" CLEANUP="true">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
 
-<INVOKE NAME="Lakshmi" SERVICE="Connections:create_CCS">
+<INVOKE NAME="WPM_Origin_16_05_2024" SERVICE="ccs:workday">
   <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>

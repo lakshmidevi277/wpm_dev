@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">lakshmi</value>
-    <value name="createdDate">1717496388772</value>
-    <value name="lastModifiedDate">1717496388772</value>
+    <value name="lastModifiedBy">lakshmi</value>
+    <value name="lastModifiedDate">1717499403097</value>
     <null name="edgeServer"/>
     <value name="displayName">workday</value>
     <value name="description"></value>
@@ -56,18 +55,22 @@
         <null name="name"/>
         <value name="itemType">PACKAGES</value>
         <record name="serviceInfo" javaclass="com.wm.util.Values">
-          <value name="groupDisplayName">Lakshmi</value>
-          <value name="groupName">Lakshmi;1.0</value>
+          <value name="groupDisplayName">WPM_Origin_16_05_2024</value>
+          <value name="groupName">WPM_Origin_16_05_2024;1.0</value>
           <null name="services"/>
         </record>
         <number name="lineNumber" type="Long">1</number>
         <record name="serviceName" javaclass="com.wm.util.Values">
-          <value name="description">Connections:create_CCS</value>
-          <value name="serviceName">Connections:create_CCS</value>
-          <value name="displayName">create_CCS</value>
+          <value name="description">ccs:workday</value>
+          <value name="serviceName">ccs:workday</value>
+          <value name="displayName">workday</value>
         </record>
         <null name="outputMapSet"/>
         <null name="mapSet"/>
+        <number name="ui_step_index" type="Long">1</number>
+        <value name="nodePathNew">0</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="lineNumberForDebug" type="Long">1</number>
       </record>
     </record>
   </record>

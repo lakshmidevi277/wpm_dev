@@ -8,7 +8,24 @@ packages:
   gitUsername: lakshmidevi277
   gitBranch: main
 - name: Lakshmi
+  version: "1.0"
   gitServerName: lakshmidevi
   gitUrl: https://github.com/lakshmidevi277
   gitUsername: lakshmidevi277
   gitBranch: main
+- name: WPM_Origin_16_05_2024
+  gitServerName: lakshmidevi
+  gitUrl: https://github.com/lakshmidevi277
+  gitUsername: lakshmidevi277
+  gitBranch: main
+services:
+- serviceName: project.wpm_dev.integrations:workday
+  packages:
+  - name: Wpm_devProject
+    version: "1.0"
+  - name: Lakshmi
+    version: "1.0"
+- serviceName: Connections:create_CCS
+  packages:
+  - name: Lakshmi
+    version: "1.0"
