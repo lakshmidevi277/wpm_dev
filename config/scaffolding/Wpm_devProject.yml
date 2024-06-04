@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/lakshmidevi277/Wpm_devProject
   gitUsername: lakshmidevi277
   gitBranch: main
+- name: Lakshmi
+  gitServerName: lakshmidevi
+  gitUrl: https://github.com/lakshmidevi277
+  gitUsername: lakshmidevi277
+  gitBranch: main
