@@ -7,13 +7,13 @@ packages:
   gitUrl: https://github.com/lakshmidevi277/Wpm_devProject
   gitUsername: lakshmidevi277
   gitBranch: main
-- name: Lakshmi
+- name: WPM_Origin_16_05_2024
   version: "1.0"
   gitServerName: lakshmidevi
   gitUrl: https://github.com/lakshmidevi277
   gitUsername: lakshmidevi277
   gitBranch: main
-- name: WPM_Origin_16_05_2024
+- name: Lakshmi
   version: "1.0"
   gitServerName: lakshmidevi
   gitUrl: https://github.com/lakshmidevi277
