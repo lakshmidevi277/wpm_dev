@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Wpm_devProject
+  gitServerName: lakshmidevi
+  gitUrl: https://github.com/lakshmidevi277/Wpm_devProject
+  gitUsername: lakshmidevi277
+  gitBranch: main
