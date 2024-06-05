@@ -45,10 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">lakshmi</value>
-    <value name="createdDate">1717518376611</value>
-    <value name="lastModifiedDate">1717518376611</value>
-    <null name="edgeServer"/>
+    <value name="lastModifiedBy">lakshmi</value>
+    <value name="lastModifiedDate">1717567028298</value>
     <value name="displayName">serviceNow</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -68,6 +66,8 @@
         </record>
         <null name="outputMapSet"/>
         <null name="mapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">0</value>
       </record>
     </record>
   </record>
