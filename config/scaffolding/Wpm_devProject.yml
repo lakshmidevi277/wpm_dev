@@ -48,3 +48,15 @@ services:
   packages:
   - name: Lakshmi
     version: "1.0"
+- serviceName: project.wpm_dev.integrations:sf_query
+  packages:
+  - name: Wpm_devProject
+    version: "1.0"
+  - name: WPM_Origin_16_05_2024
+    version: "1.0"
+  - name: Lakshmi
+    version: "1.0"
+- serviceName: ccs:sf_query
+  packages:
+  - name: Lakshmi
+    version: "1.0"
